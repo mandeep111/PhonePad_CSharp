@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhonePad.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+462d6f5ae750eaf03ea68df66ad22de9383683a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7821ac1ae201724804cd01ce3df60939638dc8d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhonePad.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhonePad.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

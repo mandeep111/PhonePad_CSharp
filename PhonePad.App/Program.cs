@@ -3,7 +3,7 @@ using Net.Turing.Phone;
 
 class Program
 {
-    static void Main()
+    public static void Main(string[] args)
     {
         Console.WriteLine(OldPhonePadUtility.Process("33#"));                // E
         Console.WriteLine(OldPhonePadUtility.Process("227*#"));              // B
