@@ -50,9 +50,11 @@ Unit Tests – Verify Domain & Application logic (xUnit or NUnit)
 👉 This layer is where dependencies are wired up using the Builder Pattern.
 
 🔄 Processing Flow
-Input String → InputProcessorImpl → BufferProcessor → Output String
-                     ↓                     ↓
-            ProcessingRules           KeyMap (digit → letters)
+```
+Input String → InputProcessor → BufferProcessor → Output String
+                     ↓              ↓
+              ProcessingRules    KeyMap (digit → letters)
+```
 
 
 Input Processing: Each character is evaluated via IProcessingRules
