@@ -11,7 +11,7 @@ The app simulates an **Old Phone Pad** text input system.
 ## 🚀 How to Run
 
 1. **Clone the repository**  
-   git clone git@github.com:mandeep111/PhonePad_CSharp.git
+   git clone [s](https://github.com/mandeep111/PhonePad_CSharp.git)
    
    ```cd PhonePadSolution```
 
