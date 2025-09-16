@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fym+ajTPpmE=",
+  "dgSpecHash": "8k3yQ2InKSk=",
   "success": true,
   "projectFilePath": "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Console/PhonePad.Console.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mandipdhakal/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.9/microsoft.extensions.dependencyinjection.9.0.9.nupkg.sha512",
+    "/Users/mandipdhakal/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.9/microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
