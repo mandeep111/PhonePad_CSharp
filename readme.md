@@ -30,7 +30,7 @@ PhonePadSolution/
     dotnet build
 
 4. **Run the Console Application**  
-    dotnet run --project PhonePad.ConsoleApp
+    dotnet run --project PhonePad.Console 
 
 4. **Run the Console Application**  
     cd PhonePad.Tests

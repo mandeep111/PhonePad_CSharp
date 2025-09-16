@@ -30,7 +30,6 @@ public class InputProcessorImpl : IInputProcessor
                 _buffer.HandleBackspace(result, buffer);
             else if (_rules.IsValidDigit(c, _keyMap))
                 _buffer.HandleDigit(result, buffer, c);
-            // else: ignore invalid chars (or log)
         }
 
         return result.ToString();
