@@ -11,19 +11,19 @@ The app simulates an **Old Phone Pad** text input system.
 ## 🚀 How to Run
 
 1. **Clone the repository**  
-   git clone https://github.com/mandeep111/PhonePad_C-
+   git clone git@github.com:mandeep111/PhonePad_CSharp.git
    
    ```cd PhonePadSolution```
 
 2. **Clone the repository**  
-    dotnet restore
+    ```dotnet restore```
 
 3. **Build the solution**  
-    dotnet build
+    ```dotnet build```
 
 4. **Run the Console Application**  
-    dotnet run --project PhonePad.Console 
+    ```dotnet run --project PhonePad.Console ```
 
 4. **Run the Console Application**  
-    cd PhonePad.Tests
-    dotnet test
+    ```cd PhonePad.Tests```
+    ```dotnet test```
