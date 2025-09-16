@@ -7,21 +7,13 @@ The app simulates an **Old Phone Pad** text input system.
 
 ---
 
-## 🛠 Project Structure
-PhonePadSolution/
-│── PhonePad.Domain
-│── PhonePad.Application
-│── PhonePad.Infrastructure
-│── PhonePad.ConsoleApp
-
-
----
 
 ## 🚀 How to Run
 
 1. **Clone the repository**  
-   git clone https://github.com/your-repo/PhonePadSolution.git
-   cd PhonePadSolution
+   git clone https://github.com/mandeep111/PhonePad_C-
+   
+   ```cd PhonePadSolution```
 
 2. **Clone the repository**  
     dotnet restore
