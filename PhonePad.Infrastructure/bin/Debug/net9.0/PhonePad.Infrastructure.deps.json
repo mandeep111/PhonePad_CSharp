@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PhonePad.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PhonePad.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PhonePad.Infrastructure.dll": {}
+        }
+      },
+      "PhonePad.Domain/1.0.0": {
+        "runtime": {
+          "PhonePad.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhonePad.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhonePad.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

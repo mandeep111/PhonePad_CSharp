@@ -1,0 +1,16 @@
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/bin/Debug/net9.0/PhonePad.Infrastructure.deps.json
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/bin/Debug/net9.0/PhonePad.Infrastructure.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/bin/Debug/net9.0/PhonePad.Infrastructure.pdb
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/bin/Debug/net9.0/PhonePad.Domain.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/bin/Debug/net9.0/PhonePad.Domain.pdb
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/PhonePad.Infrastructure.csproj.AssemblyReference.cache
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/PhonePad.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/PhonePad.Infrastructure.AssemblyInfoInputs.cache
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/PhonePad.Infrastructure.AssemblyInfo.cs
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/PhonePad.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/PhonePad.Infrastructure.sourcelink.json
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/PhonePad.868E6EF5.Up2Date
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/PhonePad.Infrastructure.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/refint/PhonePad.Infrastructure.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/PhonePad.Infrastructure.pdb
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/Debug/net9.0/ref/PhonePad.Infrastructure.dll

@@ -1,4 +1,6 @@
+using PhonePad.Domain.Models;
 namespace PhonePad.Domain.Interfaces;
+
 public interface IKeyMap
 {
     bool Contains(char digit);

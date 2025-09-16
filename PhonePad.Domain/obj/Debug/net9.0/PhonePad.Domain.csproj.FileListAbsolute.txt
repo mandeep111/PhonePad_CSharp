@@ -1,0 +1,12 @@
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/obj/Debug/net9.0/PhonePad.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/obj/Debug/net9.0/PhonePad.Domain.AssemblyInfoInputs.cache
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/obj/Debug/net9.0/PhonePad.Domain.AssemblyInfo.cs
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/obj/Debug/net9.0/PhonePad.Domain.csproj.CoreCompileInputs.cache
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/obj/Debug/net9.0/PhonePad.Domain.sourcelink.json
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/bin/Debug/net9.0/PhonePad.Domain.deps.json
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/bin/Debug/net9.0/PhonePad.Domain.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/bin/Debug/net9.0/PhonePad.Domain.pdb
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/obj/Debug/net9.0/PhonePad.Domain.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/obj/Debug/net9.0/refint/PhonePad.Domain.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/obj/Debug/net9.0/PhonePad.Domain.pdb
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Domain/obj/Debug/net9.0/ref/PhonePad.Domain.dll

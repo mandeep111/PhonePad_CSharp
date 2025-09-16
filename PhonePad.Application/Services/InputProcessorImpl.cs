@@ -1,0 +1,38 @@
+using System.Text;
+using PhonePad.Domain.Interfaces;
+
+namespace PhonePad.Application.Services;
+public class InputProcessorImpl : IInputProcessor
+{
+    private readonly BufferProcessor _buffer;
+    private readonly IProcessingRules _rules;
+    private readonly IKeyMap _keyMap;
+
+    public InputProcessorImpl(IKeyMap keyMap, IProcessingRules rules)
+    {
+        _keyMap = keyMap;
+        _rules = rules;
+        _buffer = new BufferProcessor(keyMap);
+    }
+
+    public string Process(string input)
+    {
+        if (string.IsNullOrEmpty(input)) return string.Empty;
+
+        var result = new StringBuilder();
+        var buffer = new StringBuilder();
+
+        foreach (var c in input)
+        {
+            if (_rules.IsFlush(c))
+                _buffer.FlushBuffer(result, buffer);
+            else if (_rules.IsBackspace(c))
+                _buffer.HandleBackspace(result, buffer);
+            else if (_rules.IsValidDigit(c, _keyMap))
+                _buffer.HandleDigit(result, buffer, c);
+            // else: ignore invalid chars (or log)
+        }
+
+        return result.ToString();
+    }
+}

@@ -1,0 +1,16 @@
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/bin/Debug/net9.0/PhonePad.Application.deps.json
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/bin/Debug/net9.0/PhonePad.Application.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/bin/Debug/net9.0/PhonePad.Application.pdb
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/bin/Debug/net9.0/PhonePad.Domain.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/bin/Debug/net9.0/PhonePad.Domain.pdb
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/PhonePad.Application.csproj.AssemblyReference.cache
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/PhonePad.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/PhonePad.Application.AssemblyInfoInputs.cache
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/PhonePad.Application.AssemblyInfo.cs
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/PhonePad.Application.csproj.CoreCompileInputs.cache
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/PhonePad.Application.sourcelink.json
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/PhonePad.03C5CD94.Up2Date
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/PhonePad.Application.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/refint/PhonePad.Application.dll
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/PhonePad.Application.pdb
+/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Application/obj/Debug/net9.0/ref/PhonePad.Application.dll
