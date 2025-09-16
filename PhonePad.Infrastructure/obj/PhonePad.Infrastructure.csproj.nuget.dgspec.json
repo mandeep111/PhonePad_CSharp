@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Tests/PhonePad.Tests.csproj": {}
+    "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/PhonePad.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Tests/PhonePad.Tests.csproj": {
+    "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/PhonePad.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Tests/PhonePad.Tests.csproj",
-        "projectName": "PhonePad.Tests",
-        "projectPath": "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Tests/PhonePad.Tests.csproj",
+        "projectUniqueName": "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/PhonePad.Infrastructure.csproj",
+        "projectName": "PhonePad.Infrastructure",
+        "projectPath": "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/PhonePad.Infrastructure.csproj",
         "packagesPath": "/Users/mandipdhakal/.nuget/packages/",
-        "outputPath": "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Tests/obj/",
+        "outputPath": "/Users/mandipdhakal/Documents/personal/AI-Practice/PhonePad/PhonePad.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mandipdhakal/.nuget/NuGet/NuGet.Config"
@@ -43,24 +43,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.12.0, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[6.0.2, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.9.2, )"
-            },
-            "xunit.runner.visualstudio": {
-              "target": "Package",
-              "version": "[2.8.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
