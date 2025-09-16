@@ -22,6 +22,9 @@ public class PhonePadTests
     public void ShouldReturnE_For33() => Assert.Equal("E", _pad.ProcessInput("33#"));
 
     [Fact]
+    public void ShouldReturnFalse() => Assert.NotEqual("D", _pad.ProcessInput("33#"));
+
+    [Fact]
     public void ShouldReturnB_AfterBackspace() => Assert.Equal("B", _pad.ProcessInput("227*#"));
 
     [Fact]

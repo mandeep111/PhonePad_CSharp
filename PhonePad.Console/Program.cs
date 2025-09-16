@@ -8,15 +8,12 @@ using PhonePad.Infrastructure.Rules;
 
 var services = new ServiceCollection();
 
-// infrastructure bindings (concrete implementations)
 services.AddSingleton<IKeyMap, OldPhonePadKeys>();
 services.AddSingleton<IProcessingRules, OldPhonePadRules>();
 services.AddTransient<IPhonePad>(sp => new PhonePadService(
     sp.GetRequiredService<IInputProcessor>()
 ));
 
-
-// application bindings (InputProcessor depends on IKeyMap & IProcessingRules)
 services.AddTransient<IInputProcessor>(sp =>
     new InputProcessorImpl(
         sp.GetRequiredService<IKeyMap>(),
